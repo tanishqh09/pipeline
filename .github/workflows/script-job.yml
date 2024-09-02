@@ -24,3 +24,6 @@ jobs:
 
     - name: Run Python script
       run: python script.py
+
+    - name: List files
+      run: ls -la
